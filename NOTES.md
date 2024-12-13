@@ -32,6 +32,12 @@ Executors
 + Shell Executors
 + Docker Executors
 + Virtual Machine Executor
++ Kubernetes Executor
++ Docker Machine Executor
++ SSH Executor
++ Parallels Executor
+
+
 
 
 
