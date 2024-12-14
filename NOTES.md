@@ -37,6 +37,16 @@ Executors
 + SSH Executor
 + Parallels Executor
 
+self-hosted matlab
+
+Micro-services
+
+Monorepo vs Polyrepo
+
+k8s
+
+
+
 
 
 
